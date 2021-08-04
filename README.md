@@ -1,2 +1,2 @@
 # DLLInternship21
-FastAI Colab Notebooks and Personal Projects saved in this repository.
+Colab Notebooks and Datasets for implementing Semantic Legal Search for TUKL-Internship.
